@@ -1,5 +1,7 @@
 module.exports = {
   entry: './index.js',
+  watch: true,
+  devtool: 'eval',
   module: {
     rules: [
       {
