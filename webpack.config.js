@@ -1,7 +1,6 @@
 module.exports = {
   entry: './index.js',
-  watch: true,
-  devtool: 'eval',
+  devtool: 'source-map',
   module: {
     rules: [
       {
