@@ -1,0 +1,2280 @@
+[
+  {
+    "url": "DSCF0175.jpg",
+    "width": 1620,
+    "height": 1080,
+    "exif": {
+      "36880": "+09:00",
+      "ExposureTime": 0.000588235294117647,
+      "FNumber": 1.4,
+      "ExposureProgram": 3,
+      "ISO": 640,
+      "SensitivityType": 1,
+      "ExifVersion": {
+        "type": "Buffer",
+        "data": [
+          48,
+          50,
+          51,
+          49
+        ]
+      },
+      "DateTimeOriginal": "2019-09-01T04:36:01.000Z",
+      "DateTimeDigitized": "2019-09-01T04:36:01.000Z",
+      "ShutterSpeedValue": 10.731319,
+      "ApertureValue": 0.970854,
+      "BrightnessValue": 4.09,
+      "ExposureBiasValue": 0,
+      "MaxApertureValue": 1,
+      "MeteringMode": 3,
+      "LightSource": 0,
+      "Flash": 0,
+      "FocalLength": 35,
+      "ColorSpace": 1,
+      "FocalPlaneXResolution": 2655.3432006835938,
+      "FocalPlaneYResolution": 2655.3432006835938,
+      "FocalPlaneResolutionUnit": 3,
+      "SensingMethod": 2,
+      "FileSource": {
+        "type": "Buffer",
+        "data": [
+          3
+        ]
+      },
+      "SceneType": {
+        "type": "Buffer",
+        "data": [
+          1
+        ]
+      },
+      "CustomRendered": 0,
+      "ExposureMode": 0,
+      "WhiteBalance": 0,
+      "FocalLengthIn35mmFormat": 53,
+      "SceneCaptureType": 0,
+      "Sharpness": 0,
+      "SubjectDistanceRange": 0,
+      "BodySerialNumber": "9AA07505",
+      "LensSpecification": [
+        35,
+        35,
+        1.4,
+        1.4
+      ],
+      "LensMake": "FUJIFILM",
+      "LensModel": "XF35mmF1.4 R",
+      "LensSerialNumber": "23A05803"
+    }
+  },
+  {
+    "url": "DSCF0179.jpg",
+    "width": 1620,
+    "height": 1080,
+    "exif": {
+      "36880": "+09:00",
+      "ExposureTime": 0.0006666666666666666,
+      "FNumber": 1.4,
+      "ExposureProgram": 3,
+      "ISO": 640,
+      "SensitivityType": 1,
+      "ExifVersion": {
+        "type": "Buffer",
+        "data": [
+          48,
+          50,
+          51,
+          49
+        ]
+      },
+      "DateTimeOriginal": "2019-09-01T06:39:29.000Z",
+      "DateTimeDigitized": "2019-09-01T06:39:29.000Z",
+      "ShutterSpeedValue": 10.550747,
+      "ApertureValue": 0.970854,
+      "BrightnessValue": 3.96,
+      "ExposureBiasValue": 0,
+      "MaxApertureValue": 1,
+      "MeteringMode": 3,
+      "LightSource": 0,
+      "Flash": 0,
+      "FocalLength": 35,
+      "ColorSpace": 1,
+      "FocalPlaneXResolution": 2655.3432006835938,
+      "FocalPlaneYResolution": 2655.3432006835938,
+      "FocalPlaneResolutionUnit": 3,
+      "SensingMethod": 2,
+      "FileSource": {
+        "type": "Buffer",
+        "data": [
+          3
+        ]
+      },
+      "SceneType": {
+        "type": "Buffer",
+        "data": [
+          1
+        ]
+      },
+      "CustomRendered": 0,
+      "ExposureMode": 0,
+      "WhiteBalance": 0,
+      "FocalLengthIn35mmFormat": 53,
+      "SceneCaptureType": 0,
+      "Sharpness": 0,
+      "SubjectDistanceRange": 0,
+      "BodySerialNumber": "9AA07505",
+      "LensSpecification": [
+        35,
+        35,
+        1.4,
+        1.4
+      ],
+      "LensMake": "FUJIFILM",
+      "LensModel": "XF35mmF1.4 R",
+      "LensSerialNumber": "23A05803"
+    }
+  },
+  {
+    "url": "DSCF0180.jpg",
+    "width": 1620,
+    "height": 1080,
+    "exif": {
+      "36880": "+09:00",
+      "ExposureTime": 0.0014705882352941176,
+      "FNumber": 1.4,
+      "ExposureProgram": 3,
+      "ISO": 640,
+      "SensitivityType": 1,
+      "ExifVersion": {
+        "type": "Buffer",
+        "data": [
+          48,
+          50,
+          51,
+          49
+        ]
+      },
+      "DateTimeOriginal": "2019-09-01T06:39:57.000Z",
+      "DateTimeDigitized": "2019-09-01T06:39:57.000Z",
+      "ShutterSpeedValue": 9.409391,
+      "ApertureValue": 0.970854,
+      "BrightnessValue": 4.18,
+      "ExposureBiasValue": 1.33,
+      "MaxApertureValue": 1,
+      "MeteringMode": 3,
+      "LightSource": 0,
+      "Flash": 0,
+      "FocalLength": 35,
+      "ColorSpace": 1,
+      "FocalPlaneXResolution": 2655.3432006835938,
+      "FocalPlaneYResolution": 2655.3432006835938,
+      "FocalPlaneResolutionUnit": 3,
+      "SensingMethod": 2,
+      "FileSource": {
+        "type": "Buffer",
+        "data": [
+          3
+        ]
+      },
+      "SceneType": {
+        "type": "Buffer",
+        "data": [
+          1
+        ]
+      },
+      "CustomRendered": 0,
+      "ExposureMode": 0,
+      "WhiteBalance": 0,
+      "FocalLengthIn35mmFormat": 53,
+      "SceneCaptureType": 0,
+      "Sharpness": 0,
+      "SubjectDistanceRange": 0,
+      "BodySerialNumber": "9AA07505",
+      "LensSpecification": [
+        35,
+        35,
+        1.4,
+        1.4
+      ],
+      "LensMake": "FUJIFILM",
+      "LensModel": "XF35mmF1.4 R",
+      "LensSerialNumber": "23A05803"
+    }
+  },
+  {
+    "url": "DSCF0181.jpg",
+    "width": 1620,
+    "height": 1080,
+    "exif": {
+      "36880": "+09:00",
+      "ExposureTime": 0.0015625,
+      "FNumber": 1.4,
+      "ExposureProgram": 3,
+      "ISO": 640,
+      "SensitivityType": 1,
+      "ExifVersion": {
+        "type": "Buffer",
+        "data": [
+          48,
+          50,
+          51,
+          49
+        ]
+      },
+      "DateTimeOriginal": "2019-09-01T07:09:14.000Z",
+      "DateTimeDigitized": "2019-09-01T07:09:14.000Z",
+      "ShutterSpeedValue": 9.321928,
+      "ApertureValue": 0.970854,
+      "BrightnessValue": 4.07,
+      "ExposureBiasValue": 1.33,
+      "MaxApertureValue": 1,
+      "MeteringMode": 3,
+      "LightSource": 0,
+      "Flash": 0,
+      "FocalLength": 35,
+      "ColorSpace": 1,
+      "FocalPlaneXResolution": 2655.3432006835938,
+      "FocalPlaneYResolution": 2655.3432006835938,
+      "FocalPlaneResolutionUnit": 3,
+      "SensingMethod": 2,
+      "FileSource": {
+        "type": "Buffer",
+        "data": [
+          3
+        ]
+      },
+      "SceneType": {
+        "type": "Buffer",
+        "data": [
+          1
+        ]
+      },
+      "CustomRendered": 0,
+      "ExposureMode": 0,
+      "WhiteBalance": 0,
+      "FocalLengthIn35mmFormat": 53,
+      "SceneCaptureType": 0,
+      "Sharpness": 0,
+      "SubjectDistanceRange": 0,
+      "BodySerialNumber": "9AA07505",
+      "LensSpecification": [
+        35,
+        35,
+        1.4,
+        1.4
+      ],
+      "LensMake": "FUJIFILM",
+      "LensModel": "XF35mmF1.4 R",
+      "LensSerialNumber": "23A05803"
+    }
+  },
+  {
+    "url": "DSCF0191.jpg",
+    "width": 720,
+    "height": 1080,
+    "exif": {
+      "36880": "+09:00",
+      "ExposureTime": 0.02,
+      "FNumber": 1.4,
+      "ExposureProgram": 3,
+      "ISO": 800,
+      "SensitivityType": 1,
+      "ExifVersion": {
+        "type": "Buffer",
+        "data": [
+          48,
+          50,
+          51,
+          49
+        ]
+      },
+      "DateTimeOriginal": "2019-09-01T07:24:36.000Z",
+      "DateTimeDigitized": "2019-09-01T07:24:36.000Z",
+      "ShutterSpeedValue": 5.643856,
+      "ApertureValue": 0.970854,
+      "BrightnessValue": -1.22,
+      "ExposureBiasValue": 0,
+      "MaxApertureValue": 1,
+      "MeteringMode": 3,
+      "LightSource": 0,
+      "Flash": 0,
+      "FocalLength": 35,
+      "ColorSpace": 1,
+      "FocalPlaneXResolution": 2655.3432006835938,
+      "FocalPlaneYResolution": 2655.3432006835938,
+      "FocalPlaneResolutionUnit": 3,
+      "SensingMethod": 2,
+      "FileSource": {
+        "type": "Buffer",
+        "data": [
+          3
+        ]
+      },
+      "SceneType": {
+        "type": "Buffer",
+        "data": [
+          1
+        ]
+      },
+      "CustomRendered": 0,
+      "ExposureMode": 0,
+      "WhiteBalance": 0,
+      "FocalLengthIn35mmFormat": 53,
+      "SceneCaptureType": 0,
+      "Sharpness": 0,
+      "SubjectDistanceRange": 0,
+      "BodySerialNumber": "9AA07505",
+      "LensSpecification": [
+        35,
+        35,
+        1.4,
+        1.4
+      ],
+      "LensMake": "FUJIFILM",
+      "LensModel": "XF35mmF1.4 R",
+      "LensSerialNumber": "23A05803"
+    }
+  },
+  {
+    "url": "DSCF0194.jpg",
+    "width": 720,
+    "height": 1080,
+    "exif": {
+      "36880": "+09:00",
+      "ExposureTime": 0.02,
+      "FNumber": 1.4,
+      "ExposureProgram": 3,
+      "ISO": 640,
+      "SensitivityType": 1,
+      "ExifVersion": {
+        "type": "Buffer",
+        "data": [
+          48,
+          50,
+          51,
+          49
+        ]
+      },
+      "DateTimeOriginal": "2019-09-01T07:24:53.000Z",
+      "DateTimeDigitized": "2019-09-01T07:24:53.000Z",
+      "ShutterSpeedValue": 5.643856,
+      "ApertureValue": 0.970854,
+      "BrightnessValue": -1.92,
+      "ExposureBiasValue": -1,
+      "MaxApertureValue": 1,
+      "MeteringMode": 3,
+      "LightSource": 0,
+      "Flash": 0,
+      "FocalLength": 35,
+      "ColorSpace": 1,
+      "FocalPlaneXResolution": 2655.3432006835938,
+      "FocalPlaneYResolution": 2655.3432006835938,
+      "FocalPlaneResolutionUnit": 3,
+      "SensingMethod": 2,
+      "FileSource": {
+        "type": "Buffer",
+        "data": [
+          3
+        ]
+      },
+      "SceneType": {
+        "type": "Buffer",
+        "data": [
+          1
+        ]
+      },
+      "CustomRendered": 0,
+      "ExposureMode": 0,
+      "WhiteBalance": 0,
+      "FocalLengthIn35mmFormat": 53,
+      "SceneCaptureType": 0,
+      "Sharpness": 0,
+      "SubjectDistanceRange": 0,
+      "BodySerialNumber": "9AA07505",
+      "LensSpecification": [
+        35,
+        35,
+        1.4,
+        1.4
+      ],
+      "LensMake": "FUJIFILM",
+      "LensModel": "XF35mmF1.4 R",
+      "LensSerialNumber": "23A05803"
+    }
+  },
+  {
+    "url": "DSCF0195.jpg",
+    "width": 1620,
+    "height": 1080,
+    "exif": {
+      "36880": "+09:00",
+      "ExposureTime": 0.011111111111111112,
+      "FNumber": 1.4,
+      "ExposureProgram": 3,
+      "ISO": 640,
+      "SensitivityType": 1,
+      "ExifVersion": {
+        "type": "Buffer",
+        "data": [
+          48,
+          50,
+          51,
+          49
+        ]
+      },
+      "DateTimeOriginal": "2019-09-01T07:27:25.000Z",
+      "DateTimeDigitized": "2019-09-01T07:27:25.000Z",
+      "ShutterSpeedValue": 6.491853,
+      "ApertureValue": 0.970854,
+      "BrightnessValue": -1.05,
+      "ExposureBiasValue": -1,
+      "MaxApertureValue": 1,
+      "MeteringMode": 3,
+      "LightSource": 0,
+      "Flash": 0,
+      "FocalLength": 35,
+      "ColorSpace": 1,
+      "FocalPlaneXResolution": 2655.3432006835938,
+      "FocalPlaneYResolution": 2655.3432006835938,
+      "FocalPlaneResolutionUnit": 3,
+      "SensingMethod": 2,
+      "FileSource": {
+        "type": "Buffer",
+        "data": [
+          3
+        ]
+      },
+      "SceneType": {
+        "type": "Buffer",
+        "data": [
+          1
+        ]
+      },
+      "CustomRendered": 0,
+      "ExposureMode": 0,
+      "WhiteBalance": 0,
+      "FocalLengthIn35mmFormat": 53,
+      "SceneCaptureType": 0,
+      "Sharpness": 0,
+      "SubjectDistanceRange": 0,
+      "BodySerialNumber": "9AA07505",
+      "LensSpecification": [
+        35,
+        35,
+        1.4,
+        1.4
+      ],
+      "LensMake": "FUJIFILM",
+      "LensModel": "XF35mmF1.4 R",
+      "LensSerialNumber": "23A05803"
+    }
+  },
+  {
+    "url": "DSCF0196.jpg",
+    "width": 1620,
+    "height": 1080,
+    "exif": {
+      "36880": "+09:00",
+      "ExposureTime": 0.0033333333333333335,
+      "FNumber": 1.4,
+      "ExposureProgram": 3,
+      "ISO": 640,
+      "SensitivityType": 1,
+      "ExifVersion": {
+        "type": "Buffer",
+        "data": [
+          48,
+          50,
+          51,
+          49
+        ]
+      },
+      "DateTimeOriginal": "2019-09-01T07:27:30.000Z",
+      "DateTimeDigitized": "2019-09-01T07:27:30.000Z",
+      "ShutterSpeedValue": 8.228819,
+      "ApertureValue": 0.970854,
+      "BrightnessValue": 0.63,
+      "ExposureBiasValue": -1,
+      "MaxApertureValue": 1,
+      "MeteringMode": 3,
+      "LightSource": 0,
+      "Flash": 0,
+      "FocalLength": 35,
+      "ColorSpace": 1,
+      "FocalPlaneXResolution": 2655.3432006835938,
+      "FocalPlaneYResolution": 2655.3432006835938,
+      "FocalPlaneResolutionUnit": 3,
+      "SensingMethod": 2,
+      "FileSource": {
+        "type": "Buffer",
+        "data": [
+          3
+        ]
+      },
+      "SceneType": {
+        "type": "Buffer",
+        "data": [
+          1
+        ]
+      },
+      "CustomRendered": 0,
+      "ExposureMode": 0,
+      "WhiteBalance": 0,
+      "FocalLengthIn35mmFormat": 53,
+      "SceneCaptureType": 0,
+      "Sharpness": 0,
+      "SubjectDistanceRange": 0,
+      "BodySerialNumber": "9AA07505",
+      "LensSpecification": [
+        35,
+        35,
+        1.4,
+        1.4
+      ],
+      "LensMake": "FUJIFILM",
+      "LensModel": "XF35mmF1.4 R",
+      "LensSerialNumber": "23A05803"
+    }
+  },
+  {
+    "url": "DSCF0199.jpg",
+    "width": 720,
+    "height": 1080,
+    "exif": {
+      "36880": "+09:00",
+      "ExposureTime": 0.016666666666666666,
+      "FNumber": 1.6,
+      "ExposureProgram": 1,
+      "ISO": 800,
+      "SensitivityType": 1,
+      "ExifVersion": {
+        "type": "Buffer",
+        "data": [
+          48,
+          50,
+          51,
+          49
+        ]
+      },
+      "DateTimeOriginal": "2019-09-01T07:39:57.000Z",
+      "DateTimeDigitized": "2019-09-01T07:39:57.000Z",
+      "ShutterSpeedValue": 5.906891,
+      "ApertureValue": 1.356144,
+      "BrightnessValue": -3.26,
+      "ExposureBiasValue": -1,
+      "MaxApertureValue": 1,
+      "MeteringMode": 3,
+      "LightSource": 0,
+      "Flash": 0,
+      "FocalLength": 35,
+      "ColorSpace": 1,
+      "FocalPlaneXResolution": 2655.3432006835938,
+      "FocalPlaneYResolution": 2655.3432006835938,
+      "FocalPlaneResolutionUnit": 3,
+      "SensingMethod": 2,
+      "FileSource": {
+        "type": "Buffer",
+        "data": [
+          3
+        ]
+      },
+      "SceneType": {
+        "type": "Buffer",
+        "data": [
+          1
+        ]
+      },
+      "CustomRendered": 0,
+      "ExposureMode": 1,
+      "WhiteBalance": 0,
+      "FocalLengthIn35mmFormat": 53,
+      "SceneCaptureType": 0,
+      "Sharpness": 0,
+      "SubjectDistanceRange": 0,
+      "BodySerialNumber": "9AA07505",
+      "LensSpecification": [
+        35,
+        35,
+        1.4,
+        1.4
+      ],
+      "LensMake": "FUJIFILM",
+      "LensModel": "XF35mmF1.4 R",
+      "LensSerialNumber": "23A05803"
+    }
+  },
+  {
+    "url": "DSCF0200.jpg",
+    "width": 1620,
+    "height": 1080,
+    "exif": {
+      "36880": "+09:00",
+      "ExposureTime": 0.016666666666666666,
+      "FNumber": 1.6,
+      "ExposureProgram": 1,
+      "ISO": 640,
+      "SensitivityType": 1,
+      "ExifVersion": {
+        "type": "Buffer",
+        "data": [
+          48,
+          50,
+          51,
+          49
+        ]
+      },
+      "DateTimeOriginal": "2019-09-01T07:40:50.000Z",
+      "DateTimeDigitized": "2019-09-01T07:40:50.000Z",
+      "ShutterSpeedValue": 5.906891,
+      "ApertureValue": 1.356144,
+      "BrightnessValue": 1.2,
+      "ExposureBiasValue": -1,
+      "MaxApertureValue": 1,
+      "MeteringMode": 3,
+      "LightSource": 0,
+      "Flash": 0,
+      "FocalLength": 35,
+      "ColorSpace": 1,
+      "FocalPlaneXResolution": 2655.3432006835938,
+      "FocalPlaneYResolution": 2655.3432006835938,
+      "FocalPlaneResolutionUnit": 3,
+      "SensingMethod": 2,
+      "FileSource": {
+        "type": "Buffer",
+        "data": [
+          3
+        ]
+      },
+      "SceneType": {
+        "type": "Buffer",
+        "data": [
+          1
+        ]
+      },
+      "CustomRendered": 0,
+      "ExposureMode": 1,
+      "WhiteBalance": 0,
+      "FocalLengthIn35mmFormat": 53,
+      "SceneCaptureType": 0,
+      "Sharpness": 0,
+      "SubjectDistanceRange": 0,
+      "BodySerialNumber": "9AA07505",
+      "LensSpecification": [
+        35,
+        35,
+        1.4,
+        1.4
+      ],
+      "LensMake": "FUJIFILM",
+      "LensModel": "XF35mmF1.4 R",
+      "LensSerialNumber": "23A05803"
+    }
+  },
+  {
+    "url": "DSCF0203.jpg",
+    "width": 1620,
+    "height": 1080,
+    "exif": {
+      "36880": "+09:00",
+      "ExposureTime": 0.00025,
+      "FNumber": 1.8,
+      "ExposureProgram": 1,
+      "ISO": 640,
+      "SensitivityType": 1,
+      "ExifVersion": {
+        "type": "Buffer",
+        "data": [
+          48,
+          50,
+          51,
+          49
+        ]
+      },
+      "DateTimeOriginal": "2019-09-01T07:42:55.000Z",
+      "DateTimeDigitized": "2019-09-01T07:42:55.000Z",
+      "ShutterSpeedValue": 11.965784,
+      "ApertureValue": 1.695994,
+      "BrightnessValue": 6.02,
+      "ExposureBiasValue": -1,
+      "MaxApertureValue": 1,
+      "MeteringMode": 3,
+      "LightSource": 0,
+      "Flash": 0,
+      "FocalLength": 35,
+      "ColorSpace": 1,
+      "FocalPlaneXResolution": 2655.3432006835938,
+      "FocalPlaneYResolution": 2655.3432006835938,
+      "FocalPlaneResolutionUnit": 3,
+      "SensingMethod": 2,
+      "FileSource": {
+        "type": "Buffer",
+        "data": [
+          3
+        ]
+      },
+      "SceneType": {
+        "type": "Buffer",
+        "data": [
+          1
+        ]
+      },
+      "CustomRendered": 0,
+      "ExposureMode": 1,
+      "WhiteBalance": 0,
+      "FocalLengthIn35mmFormat": 53,
+      "SceneCaptureType": 0,
+      "Sharpness": 0,
+      "SubjectDistanceRange": 0,
+      "BodySerialNumber": "9AA07505",
+      "LensSpecification": [
+        35,
+        35,
+        1.4,
+        1.4
+      ],
+      "LensMake": "FUJIFILM",
+      "LensModel": "XF35mmF1.4 R",
+      "LensSerialNumber": "23A05803"
+    }
+  },
+  {
+    "url": "DSCF0209.jpg",
+    "width": 720,
+    "height": 1080,
+    "exif": {
+      "36880": "+09:00",
+      "ExposureTime": 0.0005263157894736842,
+      "FNumber": 8,
+      "ExposureProgram": 2,
+      "ISO": 640,
+      "SensitivityType": 1,
+      "ExifVersion": {
+        "type": "Buffer",
+        "data": [
+          48,
+          50,
+          51,
+          49
+        ]
+      },
+      "DateTimeOriginal": "2019-09-01T19:25:24.000Z",
+      "DateTimeDigitized": "2019-09-01T19:25:24.000Z",
+      "ShutterSpeedValue": 10.891784,
+      "ApertureValue": 6,
+      "BrightnessValue": 7.24,
+      "ExposureBiasValue": -2,
+      "MaxApertureValue": 1,
+      "MeteringMode": 3,
+      "LightSource": 0,
+      "Flash": 0,
+      "FocalLength": 35,
+      "ColorSpace": 1,
+      "FocalPlaneXResolution": 2655.3432006835938,
+      "FocalPlaneYResolution": 2655.3432006835938,
+      "FocalPlaneResolutionUnit": 3,
+      "SensingMethod": 2,
+      "FileSource": {
+        "type": "Buffer",
+        "data": [
+          3
+        ]
+      },
+      "SceneType": {
+        "type": "Buffer",
+        "data": [
+          1
+        ]
+      },
+      "CustomRendered": 0,
+      "ExposureMode": 0,
+      "WhiteBalance": 0,
+      "FocalLengthIn35mmFormat": 53,
+      "SceneCaptureType": 0,
+      "Sharpness": 0,
+      "SubjectDistanceRange": 0,
+      "BodySerialNumber": "9AA07505",
+      "LensSpecification": [
+        35,
+        35,
+        1.4,
+        1.4
+      ],
+      "LensMake": "FUJIFILM",
+      "LensModel": "XF35mmF1.4 R",
+      "LensSerialNumber": "23A05803"
+    }
+  },
+  {
+    "url": "DSCF0211.jpg",
+    "width": 720,
+    "height": 1080,
+    "exif": {
+      "36880": "+09:00",
+      "ExposureTime": 0.0018181818181818182,
+      "FNumber": 3.6,
+      "ExposureProgram": 2,
+      "ISO": 80,
+      "SensitivityType": 1,
+      "ExifVersion": {
+        "type": "Buffer",
+        "data": [
+          48,
+          50,
+          51,
+          49
+        ]
+      },
+      "DateTimeOriginal": "2019-09-01T19:26:51.000Z",
+      "DateTimeDigitized": "2019-09-01T19:26:51.000Z",
+      "ShutterSpeedValue": 9.103288,
+      "ApertureValue": 3.695994,
+      "BrightnessValue": 6.16,
+      "ExposureBiasValue": -2,
+      "MaxApertureValue": 1,
+      "MeteringMode": 3,
+      "LightSource": 0,
+      "Flash": 0,
+      "FocalLength": 35,
+      "ColorSpace": 1,
+      "FocalPlaneXResolution": 2655.3432006835938,
+      "FocalPlaneYResolution": 2655.3432006835938,
+      "FocalPlaneResolutionUnit": 3,
+      "SensingMethod": 2,
+      "FileSource": {
+        "type": "Buffer",
+        "data": [
+          3
+        ]
+      },
+      "SceneType": {
+        "type": "Buffer",
+        "data": [
+          1
+        ]
+      },
+      "CustomRendered": 0,
+      "ExposureMode": 0,
+      "WhiteBalance": 0,
+      "FocalLengthIn35mmFormat": 53,
+      "SceneCaptureType": 0,
+      "Sharpness": 0,
+      "SubjectDistanceRange": 0,
+      "BodySerialNumber": "9AA07505",
+      "LensSpecification": [
+        35,
+        35,
+        1.4,
+        1.4
+      ],
+      "LensMake": "FUJIFILM",
+      "LensModel": "XF35mmF1.4 R",
+      "LensSerialNumber": "23A05803"
+    }
+  },
+  {
+    "url": "DSCF0213.jpg",
+    "width": 1620,
+    "height": 1080,
+    "exif": {
+      "36880": "+09:00",
+      "ExposureTime": 0.0125,
+      "FNumber": 1.6,
+      "ExposureProgram": 2,
+      "ISO": 80,
+      "SensitivityType": 1,
+      "ExifVersion": {
+        "type": "Buffer",
+        "data": [
+          48,
+          50,
+          51,
+          49
+        ]
+      },
+      "DateTimeOriginal": "2019-09-01T19:27:28.000Z",
+      "DateTimeDigitized": "2019-09-01T19:27:28.000Z",
+      "ShutterSpeedValue": 6.321928,
+      "ApertureValue": 1.356144,
+      "BrightnessValue": 2.05,
+      "ExposureBiasValue": -1,
+      "MaxApertureValue": 1,
+      "MeteringMode": 3,
+      "LightSource": 0,
+      "Flash": 0,
+      "FocalLength": 35,
+      "ColorSpace": 1,
+      "FocalPlaneXResolution": 2655.3432006835938,
+      "FocalPlaneYResolution": 2655.3432006835938,
+      "FocalPlaneResolutionUnit": 3,
+      "SensingMethod": 2,
+      "FileSource": {
+        "type": "Buffer",
+        "data": [
+          3
+        ]
+      },
+      "SceneType": {
+        "type": "Buffer",
+        "data": [
+          1
+        ]
+      },
+      "CustomRendered": 0,
+      "ExposureMode": 0,
+      "WhiteBalance": 0,
+      "FocalLengthIn35mmFormat": 53,
+      "SceneCaptureType": 0,
+      "Sharpness": 0,
+      "SubjectDistanceRange": 0,
+      "BodySerialNumber": "9AA07505",
+      "LensSpecification": [
+        35,
+        35,
+        1.4,
+        1.4
+      ],
+      "LensMake": "FUJIFILM",
+      "LensModel": "XF35mmF1.4 R",
+      "LensSerialNumber": "23A05803"
+    }
+  },
+  {
+    "url": "DSCF0214.jpg",
+    "width": 1620,
+    "height": 1080,
+    "exif": {
+      "36880": "+09:00",
+      "ExposureTime": 0.0058823529411764705,
+      "FNumber": 4,
+      "ExposureProgram": 3,
+      "ISO": 80,
+      "SensitivityType": 1,
+      "ExifVersion": {
+        "type": "Buffer",
+        "data": [
+          48,
+          50,
+          51,
+          49
+        ]
+      },
+      "DateTimeOriginal": "2019-09-01T19:27:47.000Z",
+      "DateTimeDigitized": "2019-09-01T19:27:47.000Z",
+      "ShutterSpeedValue": 7.409391,
+      "ApertureValue": 4,
+      "BrightnessValue": 5.74,
+      "ExposureBiasValue": -1,
+      "MaxApertureValue": 1,
+      "MeteringMode": 3,
+      "LightSource": 0,
+      "Flash": 0,
+      "FocalLength": 35,
+      "ColorSpace": 1,
+      "FocalPlaneXResolution": 2655.3432006835938,
+      "FocalPlaneYResolution": 2655.3432006835938,
+      "FocalPlaneResolutionUnit": 3,
+      "SensingMethod": 2,
+      "FileSource": {
+        "type": "Buffer",
+        "data": [
+          3
+        ]
+      },
+      "SceneType": {
+        "type": "Buffer",
+        "data": [
+          1
+        ]
+      },
+      "CustomRendered": 0,
+      "ExposureMode": 0,
+      "WhiteBalance": 0,
+      "FocalLengthIn35mmFormat": 53,
+      "SceneCaptureType": 0,
+      "Sharpness": 0,
+      "SubjectDistanceRange": 0,
+      "BodySerialNumber": "9AA07505",
+      "LensSpecification": [
+        35,
+        35,
+        1.4,
+        1.4
+      ],
+      "LensMake": "FUJIFILM",
+      "LensModel": "XF35mmF1.4 R",
+      "LensSerialNumber": "23A05803"
+    }
+  },
+  {
+    "url": "DSCF0216.jpg",
+    "width": 1620,
+    "height": 1080,
+    "exif": {
+      "36880": "+09:00",
+      "ExposureTime": 0.00025,
+      "FNumber": 1.4,
+      "ExposureProgram": 3,
+      "ISO": 80,
+      "SensitivityType": 1,
+      "ExifVersion": {
+        "type": "Buffer",
+        "data": [
+          48,
+          50,
+          51,
+          49
+        ]
+      },
+      "DateTimeOriginal": "2019-09-01T19:30:40.000Z",
+      "DateTimeDigitized": "2019-09-01T19:30:40.000Z",
+      "ShutterSpeedValue": 11.965784,
+      "ApertureValue": 0.970854,
+      "BrightnessValue": 8.75,
+      "ExposureBiasValue": -1,
+      "MaxApertureValue": 1,
+      "MeteringMode": 3,
+      "LightSource": 0,
+      "Flash": 0,
+      "FocalLength": 35,
+      "ColorSpace": 1,
+      "FocalPlaneXResolution": 2655.3432006835938,
+      "FocalPlaneYResolution": 2655.3432006835938,
+      "FocalPlaneResolutionUnit": 3,
+      "SensingMethod": 2,
+      "FileSource": {
+        "type": "Buffer",
+        "data": [
+          3
+        ]
+      },
+      "SceneType": {
+        "type": "Buffer",
+        "data": [
+          1
+        ]
+      },
+      "CustomRendered": 0,
+      "ExposureMode": 0,
+      "WhiteBalance": 0,
+      "FocalLengthIn35mmFormat": 53,
+      "SceneCaptureType": 0,
+      "Sharpness": 0,
+      "SubjectDistanceRange": 0,
+      "BodySerialNumber": "9AA07505",
+      "LensSpecification": [
+        35,
+        35,
+        1.4,
+        1.4
+      ],
+      "LensMake": "FUJIFILM",
+      "LensModel": "XF35mmF1.4 R",
+      "LensSerialNumber": "23A05803"
+    }
+  },
+  {
+    "url": "DSCF0217.jpg",
+    "width": 720,
+    "height": 1080,
+    "exif": {
+      "36880": "+09:00",
+      "ExposureTime": 0.007142857142857143,
+      "FNumber": 1.4,
+      "ExposureProgram": 3,
+      "ISO": 80,
+      "SensitivityType": 1,
+      "ExifVersion": {
+        "type": "Buffer",
+        "data": [
+          48,
+          50,
+          51,
+          49
+        ]
+      },
+      "DateTimeOriginal": "2019-09-01T19:31:33.000Z",
+      "DateTimeDigitized": "2019-09-01T19:31:33.000Z",
+      "ShutterSpeedValue": 7.129283,
+      "ApertureValue": 0.970854,
+      "BrightnessValue": 2.53,
+      "ExposureBiasValue": -1,
+      "MaxApertureValue": 1,
+      "MeteringMode": 3,
+      "LightSource": 0,
+      "Flash": 0,
+      "FocalLength": 35,
+      "ColorSpace": 1,
+      "FocalPlaneXResolution": 2655.3432006835938,
+      "FocalPlaneYResolution": 2655.3432006835938,
+      "FocalPlaneResolutionUnit": 3,
+      "SensingMethod": 2,
+      "FileSource": {
+        "type": "Buffer",
+        "data": [
+          3
+        ]
+      },
+      "SceneType": {
+        "type": "Buffer",
+        "data": [
+          1
+        ]
+      },
+      "CustomRendered": 0,
+      "ExposureMode": 0,
+      "WhiteBalance": 0,
+      "FocalLengthIn35mmFormat": 53,
+      "SceneCaptureType": 0,
+      "Sharpness": 0,
+      "SubjectDistanceRange": 0,
+      "BodySerialNumber": "9AA07505",
+      "LensSpecification": [
+        35,
+        35,
+        1.4,
+        1.4
+      ],
+      "LensMake": "FUJIFILM",
+      "LensModel": "XF35mmF1.4 R",
+      "LensSerialNumber": "23A05803"
+    }
+  },
+  {
+    "url": "DSCF0218.jpg",
+    "width": 720,
+    "height": 1080,
+    "exif": {
+      "36880": "+09:00",
+      "ExposureTime": 0.002380952380952381,
+      "FNumber": 1.4,
+      "ExposureProgram": 3,
+      "ISO": 100,
+      "SensitivityType": 1,
+      "ExifVersion": {
+        "type": "Buffer",
+        "data": [
+          48,
+          50,
+          51,
+          49
+        ]
+      },
+      "DateTimeOriginal": "2019-09-01T19:31:40.000Z",
+      "DateTimeDigitized": "2019-09-01T19:31:40.000Z",
+      "ShutterSpeedValue": 8.714246,
+      "ApertureValue": 0.970854,
+      "BrightnessValue": 3.76,
+      "ExposureBiasValue": -1,
+      "MaxApertureValue": 1,
+      "MeteringMode": 3,
+      "LightSource": 0,
+      "Flash": 0,
+      "FocalLength": 35,
+      "ColorSpace": 1,
+      "FocalPlaneXResolution": 2655.3432006835938,
+      "FocalPlaneYResolution": 2655.3432006835938,
+      "FocalPlaneResolutionUnit": 3,
+      "SensingMethod": 2,
+      "FileSource": {
+        "type": "Buffer",
+        "data": [
+          3
+        ]
+      },
+      "SceneType": {
+        "type": "Buffer",
+        "data": [
+          1
+        ]
+      },
+      "CustomRendered": 0,
+      "ExposureMode": 0,
+      "WhiteBalance": 0,
+      "FocalLengthIn35mmFormat": 53,
+      "SceneCaptureType": 0,
+      "Sharpness": 0,
+      "SubjectDistanceRange": 0,
+      "BodySerialNumber": "9AA07505",
+      "LensSpecification": [
+        35,
+        35,
+        1.4,
+        1.4
+      ],
+      "LensMake": "FUJIFILM",
+      "LensModel": "XF35mmF1.4 R",
+      "LensSerialNumber": "23A05803"
+    }
+  },
+  {
+    "url": "DSCF0220.jpg",
+    "width": 720,
+    "height": 1080,
+    "exif": {
+      "36880": "+09:00",
+      "ExposureTime": 0.001,
+      "FNumber": 1.4,
+      "ExposureProgram": 3,
+      "ISO": 100,
+      "SensitivityType": 1,
+      "ExifVersion": {
+        "type": "Buffer",
+        "data": [
+          48,
+          50,
+          51,
+          49
+        ]
+      },
+      "DateTimeOriginal": "2019-09-01T19:32:24.000Z",
+      "DateTimeDigitized": "2019-09-01T19:32:24.000Z",
+      "ShutterSpeedValue": 9.965784,
+      "ApertureValue": 0.970854,
+      "BrightnessValue": 5.07,
+      "ExposureBiasValue": -1,
+      "MaxApertureValue": 1,
+      "MeteringMode": 3,
+      "LightSource": 0,
+      "Flash": 0,
+      "FocalLength": 35,
+      "ColorSpace": 1,
+      "FocalPlaneXResolution": 2655.3432006835938,
+      "FocalPlaneYResolution": 2655.3432006835938,
+      "FocalPlaneResolutionUnit": 3,
+      "SensingMethod": 2,
+      "FileSource": {
+        "type": "Buffer",
+        "data": [
+          3
+        ]
+      },
+      "SceneType": {
+        "type": "Buffer",
+        "data": [
+          1
+        ]
+      },
+      "CustomRendered": 0,
+      "ExposureMode": 0,
+      "WhiteBalance": 0,
+      "FocalLengthIn35mmFormat": 53,
+      "SceneCaptureType": 0,
+      "Sharpness": 0,
+      "SubjectDistanceRange": 0,
+      "BodySerialNumber": "9AA07505",
+      "LensSpecification": [
+        35,
+        35,
+        1.4,
+        1.4
+      ],
+      "LensMake": "FUJIFILM",
+      "LensModel": "XF35mmF1.4 R",
+      "LensSerialNumber": "23A05803"
+    }
+  },
+  {
+    "url": "DSCF0221.jpg",
+    "width": 1620,
+    "height": 1080,
+    "exif": {
+      "36880": "+09:00",
+      "ExposureTime": 0.0003333333333333333,
+      "FNumber": 1.4,
+      "ExposureProgram": 3,
+      "ISO": 100,
+      "SensitivityType": 1,
+      "ExifVersion": {
+        "type": "Buffer",
+        "data": [
+          48,
+          50,
+          51,
+          49
+        ]
+      },
+      "DateTimeOriginal": "2019-09-01T19:36:41.000Z",
+      "DateTimeDigitized": "2019-09-01T19:36:41.000Z",
+      "ShutterSpeedValue": 11.550747,
+      "ApertureValue": 0.970854,
+      "BrightnessValue": 6.66,
+      "ExposureBiasValue": -1,
+      "MaxApertureValue": 1,
+      "MeteringMode": 3,
+      "LightSource": 0,
+      "Flash": 0,
+      "FocalLength": 35,
+      "ColorSpace": 1,
+      "FocalPlaneXResolution": 2655.3432006835938,
+      "FocalPlaneYResolution": 2655.3432006835938,
+      "FocalPlaneResolutionUnit": 3,
+      "SensingMethod": 2,
+      "FileSource": {
+        "type": "Buffer",
+        "data": [
+          3
+        ]
+      },
+      "SceneType": {
+        "type": "Buffer",
+        "data": [
+          1
+        ]
+      },
+      "CustomRendered": 0,
+      "ExposureMode": 0,
+      "WhiteBalance": 0,
+      "FocalLengthIn35mmFormat": 53,
+      "SceneCaptureType": 0,
+      "Sharpness": 0,
+      "SubjectDistanceRange": 0,
+      "BodySerialNumber": "9AA07505",
+      "LensSpecification": [
+        35,
+        35,
+        1.4,
+        1.4
+      ],
+      "LensMake": "FUJIFILM",
+      "LensModel": "XF35mmF1.4 R",
+      "LensSerialNumber": "23A05803"
+    }
+  },
+  {
+    "url": "DSCF0222.jpg",
+    "width": 1620,
+    "height": 1080,
+    "exif": {
+      "36880": "+09:00",
+      "ExposureTime": 0.000625,
+      "FNumber": 1.4,
+      "ExposureProgram": 3,
+      "ISO": 100,
+      "SensitivityType": 1,
+      "ExifVersion": {
+        "type": "Buffer",
+        "data": [
+          48,
+          50,
+          51,
+          49
+        ]
+      },
+      "DateTimeOriginal": "2019-09-01T19:37:20.000Z",
+      "DateTimeDigitized": "2019-09-01T19:37:20.000Z",
+      "ShutterSpeedValue": 10.643856,
+      "ApertureValue": 0.970854,
+      "BrightnessValue": 5.69,
+      "ExposureBiasValue": -1,
+      "MaxApertureValue": 1,
+      "MeteringMode": 3,
+      "LightSource": 0,
+      "Flash": 0,
+      "FocalLength": 35,
+      "ColorSpace": 1,
+      "FocalPlaneXResolution": 2655.3432006835938,
+      "FocalPlaneYResolution": 2655.3432006835938,
+      "FocalPlaneResolutionUnit": 3,
+      "SensingMethod": 2,
+      "FileSource": {
+        "type": "Buffer",
+        "data": [
+          3
+        ]
+      },
+      "SceneType": {
+        "type": "Buffer",
+        "data": [
+          1
+        ]
+      },
+      "CustomRendered": 0,
+      "ExposureMode": 0,
+      "WhiteBalance": 0,
+      "FocalLengthIn35mmFormat": 53,
+      "SceneCaptureType": 0,
+      "Sharpness": 0,
+      "SubjectDistanceRange": 0,
+      "BodySerialNumber": "9AA07505",
+      "LensSpecification": [
+        35,
+        35,
+        1.4,
+        1.4
+      ],
+      "LensMake": "FUJIFILM",
+      "LensModel": "XF35mmF1.4 R",
+      "LensSerialNumber": "23A05803"
+    }
+  },
+  {
+    "url": "DSCF0225.jpg",
+    "width": 720,
+    "height": 1080,
+    "exif": {
+      "36880": "+09:00",
+      "ExposureTime": 0.0005263157894736842,
+      "FNumber": 2,
+      "ExposureProgram": 3,
+      "ISO": 100,
+      "SensitivityType": 1,
+      "ExifVersion": {
+        "type": "Buffer",
+        "data": [
+          48,
+          50,
+          51,
+          49
+        ]
+      },
+      "DateTimeOriginal": "2019-09-01T20:15:41.000Z",
+      "DateTimeDigitized": "2019-09-01T20:15:41.000Z",
+      "ShutterSpeedValue": 10.891784,
+      "ApertureValue": 2,
+      "BrightnessValue": 6.98,
+      "ExposureBiasValue": -1,
+      "MaxApertureValue": 1,
+      "MeteringMode": 3,
+      "LightSource": 0,
+      "Flash": 0,
+      "FocalLength": 35,
+      "ColorSpace": 1,
+      "FocalPlaneXResolution": 2655.3432006835938,
+      "FocalPlaneYResolution": 2655.3432006835938,
+      "FocalPlaneResolutionUnit": 3,
+      "SensingMethod": 2,
+      "FileSource": {
+        "type": "Buffer",
+        "data": [
+          3
+        ]
+      },
+      "SceneType": {
+        "type": "Buffer",
+        "data": [
+          1
+        ]
+      },
+      "CustomRendered": 0,
+      "ExposureMode": 0,
+      "WhiteBalance": 0,
+      "FocalLengthIn35mmFormat": 53,
+      "SceneCaptureType": 0,
+      "Sharpness": 0,
+      "SubjectDistanceRange": 0,
+      "BodySerialNumber": "9AA07505",
+      "LensSpecification": [
+        35,
+        35,
+        1.4,
+        1.4
+      ],
+      "LensMake": "FUJIFILM",
+      "LensModel": "XF35mmF1.4 R",
+      "LensSerialNumber": "23A05803"
+    }
+  },
+  {
+    "url": "DSCF0226.jpg",
+    "width": 720,
+    "height": 1080,
+    "exif": {
+      "36880": "+09:00",
+      "ExposureTime": 0.00025,
+      "FNumber": 2,
+      "ExposureProgram": 3,
+      "ISO": 100,
+      "SensitivityType": 1,
+      "ExifVersion": {
+        "type": "Buffer",
+        "data": [
+          48,
+          50,
+          51,
+          49
+        ]
+      },
+      "DateTimeOriginal": "2019-09-01T20:15:45.000Z",
+      "DateTimeDigitized": "2019-09-01T20:15:45.000Z",
+      "ShutterSpeedValue": 11.965784,
+      "ApertureValue": 2,
+      "BrightnessValue": 8.77,
+      "ExposureBiasValue": -1,
+      "MaxApertureValue": 1,
+      "MeteringMode": 3,
+      "LightSource": 0,
+      "Flash": 0,
+      "FocalLength": 35,
+      "ColorSpace": 1,
+      "FocalPlaneXResolution": 2655.3432006835938,
+      "FocalPlaneYResolution": 2655.3432006835938,
+      "FocalPlaneResolutionUnit": 3,
+      "SensingMethod": 2,
+      "FileSource": {
+        "type": "Buffer",
+        "data": [
+          3
+        ]
+      },
+      "SceneType": {
+        "type": "Buffer",
+        "data": [
+          1
+        ]
+      },
+      "CustomRendered": 0,
+      "ExposureMode": 0,
+      "WhiteBalance": 0,
+      "FocalLengthIn35mmFormat": 53,
+      "SceneCaptureType": 0,
+      "Sharpness": 0,
+      "SubjectDistanceRange": 0,
+      "BodySerialNumber": "9AA07505",
+      "LensSpecification": [
+        35,
+        35,
+        1.4,
+        1.4
+      ],
+      "LensMake": "FUJIFILM",
+      "LensModel": "XF35mmF1.4 R",
+      "LensSerialNumber": "23A05803"
+    }
+  },
+  {
+    "url": "DSCF0230.jpg",
+    "width": 720,
+    "height": 1080,
+    "exif": {
+      "36880": "+09:00",
+      "ExposureTime": 0.00909090909090909,
+      "FNumber": 8,
+      "ExposureProgram": 3,
+      "ISO": 100,
+      "SensitivityType": 1,
+      "ExifVersion": {
+        "type": "Buffer",
+        "data": [
+          48,
+          50,
+          51,
+          49
+        ]
+      },
+      "DateTimeOriginal": "2019-09-01T20:33:37.000Z",
+      "DateTimeDigitized": "2019-09-01T20:33:37.000Z",
+      "ShutterSpeedValue": 6.78136,
+      "ApertureValue": 6,
+      "BrightnessValue": 7.85,
+      "ExposureBiasValue": 0,
+      "MaxApertureValue": 1,
+      "MeteringMode": 3,
+      "LightSource": 0,
+      "Flash": 0,
+      "FocalLength": 35,
+      "ColorSpace": 1,
+      "FocalPlaneXResolution": 2655.3432006835938,
+      "FocalPlaneYResolution": 2655.3432006835938,
+      "FocalPlaneResolutionUnit": 3,
+      "SensingMethod": 2,
+      "FileSource": {
+        "type": "Buffer",
+        "data": [
+          3
+        ]
+      },
+      "SceneType": {
+        "type": "Buffer",
+        "data": [
+          1
+        ]
+      },
+      "CustomRendered": 0,
+      "ExposureMode": 0,
+      "WhiteBalance": 0,
+      "FocalLengthIn35mmFormat": 53,
+      "SceneCaptureType": 0,
+      "Sharpness": 0,
+      "SubjectDistanceRange": 0,
+      "BodySerialNumber": "9AA07505",
+      "LensSpecification": [
+        35,
+        35,
+        1.4,
+        1.4
+      ],
+      "LensMake": "FUJIFILM",
+      "LensModel": "XF35mmF1.4 R",
+      "LensSerialNumber": "23A05803"
+    }
+  },
+  {
+    "url": "DSCF0234.jpg",
+    "width": 720,
+    "height": 1080,
+    "exif": {
+      "36880": "+09:00",
+      "ExposureTime": 0.0003333333333333333,
+      "FNumber": 1.4,
+      "ExposureProgram": 3,
+      "ISO": 100,
+      "SensitivityType": 1,
+      "ExifVersion": {
+        "type": "Buffer",
+        "data": [
+          48,
+          50,
+          51,
+          49
+        ]
+      },
+      "DateTimeOriginal": "2019-09-01T21:04:42.000Z",
+      "DateTimeDigitized": "2019-09-01T21:04:42.000Z",
+      "ShutterSpeedValue": 11.550747,
+      "ApertureValue": 0.970854,
+      "BrightnessValue": 7.7,
+      "ExposureBiasValue": 0,
+      "MaxApertureValue": 1,
+      "MeteringMode": 3,
+      "LightSource": 0,
+      "Flash": 0,
+      "FocalLength": 35,
+      "ColorSpace": 1,
+      "FocalPlaneXResolution": 2655.3432006835938,
+      "FocalPlaneYResolution": 2655.3432006835938,
+      "FocalPlaneResolutionUnit": 3,
+      "SensingMethod": 2,
+      "FileSource": {
+        "type": "Buffer",
+        "data": [
+          3
+        ]
+      },
+      "SceneType": {
+        "type": "Buffer",
+        "data": [
+          1
+        ]
+      },
+      "CustomRendered": 0,
+      "ExposureMode": 0,
+      "WhiteBalance": 0,
+      "FocalLengthIn35mmFormat": 53,
+      "SceneCaptureType": 0,
+      "Sharpness": 0,
+      "SubjectDistanceRange": 0,
+      "BodySerialNumber": "9AA07505",
+      "LensSpecification": [
+        35,
+        35,
+        1.4,
+        1.4
+      ],
+      "LensMake": "FUJIFILM",
+      "LensModel": "XF35mmF1.4 R",
+      "LensSerialNumber": "23A05803"
+    }
+  },
+  {
+    "url": "DSCF0236.jpg",
+    "width": 720,
+    "height": 1080,
+    "exif": {
+      "36880": "+09:00",
+      "ExposureTime": 0.001,
+      "FNumber": 6.4,
+      "ExposureProgram": 2,
+      "ISO": 100,
+      "SensitivityType": 1,
+      "ExifVersion": {
+        "type": "Buffer",
+        "data": [
+          48,
+          50,
+          51,
+          49
+        ]
+      },
+      "DateTimeOriginal": "2019-09-01T21:05:48.000Z",
+      "DateTimeDigitized": "2019-09-01T21:05:48.000Z",
+      "ShutterSpeedValue": 9.965784,
+      "ApertureValue": 5.356144,
+      "BrightnessValue": 10.37,
+      "ExposureBiasValue": 0,
+      "MaxApertureValue": 1,
+      "MeteringMode": 3,
+      "LightSource": 0,
+      "Flash": 0,
+      "FocalLength": 35,
+      "ColorSpace": 1,
+      "FocalPlaneXResolution": 2655.3432006835938,
+      "FocalPlaneYResolution": 2655.3432006835938,
+      "FocalPlaneResolutionUnit": 3,
+      "SensingMethod": 2,
+      "FileSource": {
+        "type": "Buffer",
+        "data": [
+          3
+        ]
+      },
+      "SceneType": {
+        "type": "Buffer",
+        "data": [
+          1
+        ]
+      },
+      "CustomRendered": 0,
+      "ExposureMode": 0,
+      "WhiteBalance": 0,
+      "FocalLengthIn35mmFormat": 53,
+      "SceneCaptureType": 0,
+      "Sharpness": 0,
+      "SubjectDistanceRange": 0,
+      "BodySerialNumber": "9AA07505",
+      "LensSpecification": [
+        35,
+        35,
+        1.4,
+        1.4
+      ],
+      "LensMake": "FUJIFILM",
+      "LensModel": "XF35mmF1.4 R",
+      "LensSerialNumber": "23A05803"
+    }
+  },
+  {
+    "url": "DSCF0238.jpg",
+    "width": 1620,
+    "height": 1080,
+    "exif": {
+      "36880": "+09:00",
+      "ExposureTime": 0.016666666666666666,
+      "FNumber": 1.4,
+      "ExposureProgram": 3,
+      "ISO": 640,
+      "SensitivityType": 1,
+      "ExifVersion": {
+        "type": "Buffer",
+        "data": [
+          48,
+          50,
+          51,
+          49
+        ]
+      },
+      "DateTimeOriginal": "2019-09-01T21:12:11.000Z",
+      "DateTimeDigitized": "2019-09-01T21:12:11.000Z",
+      "ShutterSpeedValue": 5.906891,
+      "ApertureValue": 0.970854,
+      "BrightnessValue": -0.55,
+      "ExposureBiasValue": 0,
+      "MaxApertureValue": 1,
+      "MeteringMode": 3,
+      "LightSource": 0,
+      "Flash": 0,
+      "FocalLength": 35,
+      "ColorSpace": 1,
+      "FocalPlaneXResolution": 2655.3432006835938,
+      "FocalPlaneYResolution": 2655.3432006835938,
+      "FocalPlaneResolutionUnit": 3,
+      "SensingMethod": 2,
+      "FileSource": {
+        "type": "Buffer",
+        "data": [
+          3
+        ]
+      },
+      "SceneType": {
+        "type": "Buffer",
+        "data": [
+          1
+        ]
+      },
+      "CustomRendered": 0,
+      "ExposureMode": 0,
+      "WhiteBalance": 0,
+      "FocalLengthIn35mmFormat": 53,
+      "SceneCaptureType": 0,
+      "Sharpness": 0,
+      "SubjectDistanceRange": 0,
+      "BodySerialNumber": "9AA07505",
+      "LensSpecification": [
+        35,
+        35,
+        1.4,
+        1.4
+      ],
+      "LensMake": "FUJIFILM",
+      "LensModel": "XF35mmF1.4 R",
+      "LensSerialNumber": "23A05803"
+    }
+  },
+  {
+    "url": "DSCF0245.jpg",
+    "width": 720,
+    "height": 1080,
+    "exif": {
+      "36880": "+09:00",
+      "ExposureTime": 0.0008,
+      "FNumber": 8,
+      "ExposureProgram": 3,
+      "ISO": 640,
+      "SensitivityType": 1,
+      "ExifVersion": {
+        "type": "Buffer",
+        "data": [
+          48,
+          50,
+          51,
+          49
+        ]
+      },
+      "DateTimeOriginal": "2019-09-01T21:19:26.000Z",
+      "DateTimeDigitized": "2019-09-01T21:19:26.000Z",
+      "ShutterSpeedValue": 10.287712,
+      "ApertureValue": 6,
+      "BrightnessValue": 8.54,
+      "ExposureBiasValue": 0,
+      "MaxApertureValue": 1,
+      "MeteringMode": 3,
+      "LightSource": 0,
+      "Flash": 0,
+      "FocalLength": 35,
+      "ColorSpace": 1,
+      "FocalPlaneXResolution": 2655.3432006835938,
+      "FocalPlaneYResolution": 2655.3432006835938,
+      "FocalPlaneResolutionUnit": 3,
+      "SensingMethod": 2,
+      "FileSource": {
+        "type": "Buffer",
+        "data": [
+          3
+        ]
+      },
+      "SceneType": {
+        "type": "Buffer",
+        "data": [
+          1
+        ]
+      },
+      "CustomRendered": 0,
+      "ExposureMode": 0,
+      "WhiteBalance": 0,
+      "FocalLengthIn35mmFormat": 53,
+      "SceneCaptureType": 0,
+      "Sharpness": 0,
+      "SubjectDistanceRange": 0,
+      "BodySerialNumber": "9AA07505",
+      "LensSpecification": [
+        35,
+        35,
+        1.4,
+        1.4
+      ],
+      "LensMake": "FUJIFILM",
+      "LensModel": "XF35mmF1.4 R",
+      "LensSerialNumber": "23A05803"
+    }
+  },
+  {
+    "url": "DSCF0248.jpg",
+    "width": 720,
+    "height": 1080,
+    "exif": {
+      "36880": "+09:00",
+      "ExposureTime": 0.0016666666666666668,
+      "FNumber": 8,
+      "ExposureProgram": 3,
+      "ISO": 640,
+      "SensitivityType": 1,
+      "ExifVersion": {
+        "type": "Buffer",
+        "data": [
+          48,
+          50,
+          51,
+          49
+        ]
+      },
+      "DateTimeOriginal": "2019-09-01T21:22:17.000Z",
+      "DateTimeDigitized": "2019-09-01T21:22:17.000Z",
+      "ShutterSpeedValue": 9.228819,
+      "ApertureValue": 6,
+      "BrightnessValue": 7.57,
+      "ExposureBiasValue": 0,
+      "MaxApertureValue": 1,
+      "MeteringMode": 3,
+      "LightSource": 0,
+      "Flash": 0,
+      "FocalLength": 35,
+      "ColorSpace": 1,
+      "FocalPlaneXResolution": 2655.3432006835938,
+      "FocalPlaneYResolution": 2655.3432006835938,
+      "FocalPlaneResolutionUnit": 3,
+      "SensingMethod": 2,
+      "FileSource": {
+        "type": "Buffer",
+        "data": [
+          3
+        ]
+      },
+      "SceneType": {
+        "type": "Buffer",
+        "data": [
+          1
+        ]
+      },
+      "CustomRendered": 0,
+      "ExposureMode": 0,
+      "WhiteBalance": 0,
+      "FocalLengthIn35mmFormat": 53,
+      "SceneCaptureType": 0,
+      "Sharpness": 0,
+      "SubjectDistanceRange": 0,
+      "BodySerialNumber": "9AA07505",
+      "LensSpecification": [
+        35,
+        35,
+        1.4,
+        1.4
+      ],
+      "LensMake": "FUJIFILM",
+      "LensModel": "XF35mmF1.4 R",
+      "LensSerialNumber": "23A05803"
+    }
+  },
+  {
+    "url": "DSCF0256.jpg",
+    "width": 720,
+    "height": 1080,
+    "exif": {
+      "36880": "+09:00",
+      "ExposureTime": 0.00025,
+      "FNumber": 1.4,
+      "ExposureProgram": 3,
+      "ISO": 640,
+      "SensitivityType": 1,
+      "ExifVersion": {
+        "type": "Buffer",
+        "data": [
+          48,
+          50,
+          51,
+          49
+        ]
+      },
+      "DateTimeOriginal": "2019-09-01T22:42:03.000Z",
+      "DateTimeDigitized": "2019-09-01T22:42:03.000Z",
+      "ShutterSpeedValue": 11.965784,
+      "ApertureValue": 0.970854,
+      "BrightnessValue": 5.61,
+      "ExposureBiasValue": 0,
+      "MaxApertureValue": 1,
+      "MeteringMode": 3,
+      "LightSource": 0,
+      "Flash": 0,
+      "FocalLength": 35,
+      "ColorSpace": 1,
+      "FocalPlaneXResolution": 2655.3432006835938,
+      "FocalPlaneYResolution": 2655.3432006835938,
+      "FocalPlaneResolutionUnit": 3,
+      "SensingMethod": 2,
+      "FileSource": {
+        "type": "Buffer",
+        "data": [
+          3
+        ]
+      },
+      "SceneType": {
+        "type": "Buffer",
+        "data": [
+          1
+        ]
+      },
+      "CustomRendered": 0,
+      "ExposureMode": 0,
+      "WhiteBalance": 0,
+      "FocalLengthIn35mmFormat": 53,
+      "SceneCaptureType": 0,
+      "Sharpness": 0,
+      "SubjectDistanceRange": 0,
+      "BodySerialNumber": "9AA07505",
+      "LensSpecification": [
+        35,
+        35,
+        1.4,
+        1.4
+      ],
+      "LensMake": "FUJIFILM",
+      "LensModel": "XF35mmF1.4 R",
+      "LensSerialNumber": "23A05803"
+    }
+  },
+  {
+    "url": "DSCF0257.jpg",
+    "width": 720,
+    "height": 1080,
+    "exif": {
+      "36880": "+09:00",
+      "ExposureTime": 0.00025,
+      "FNumber": 1.4,
+      "ExposureProgram": 3,
+      "ISO": 640,
+      "SensitivityType": 1,
+      "ExifVersion": {
+        "type": "Buffer",
+        "data": [
+          48,
+          50,
+          51,
+          49
+        ]
+      },
+      "DateTimeOriginal": "2019-09-01T22:42:09.000Z",
+      "DateTimeDigitized": "2019-09-01T22:42:09.000Z",
+      "ShutterSpeedValue": 11.965784,
+      "ApertureValue": 0.970854,
+      "BrightnessValue": 5.41,
+      "ExposureBiasValue": 0,
+      "MaxApertureValue": 1,
+      "MeteringMode": 3,
+      "LightSource": 0,
+      "Flash": 0,
+      "FocalLength": 35,
+      "ColorSpace": 1,
+      "FocalPlaneXResolution": 2655.3432006835938,
+      "FocalPlaneYResolution": 2655.3432006835938,
+      "FocalPlaneResolutionUnit": 3,
+      "SensingMethod": 2,
+      "FileSource": {
+        "type": "Buffer",
+        "data": [
+          3
+        ]
+      },
+      "SceneType": {
+        "type": "Buffer",
+        "data": [
+          1
+        ]
+      },
+      "CustomRendered": 0,
+      "ExposureMode": 0,
+      "WhiteBalance": 0,
+      "FocalLengthIn35mmFormat": 53,
+      "SceneCaptureType": 0,
+      "Sharpness": 0,
+      "SubjectDistanceRange": 0,
+      "BodySerialNumber": "9AA07505",
+      "LensSpecification": [
+        35,
+        35,
+        1.4,
+        1.4
+      ],
+      "LensMake": "FUJIFILM",
+      "LensModel": "XF35mmF1.4 R",
+      "LensSerialNumber": "23A05803"
+    }
+  },
+  {
+    "url": "DSCF0259.jpg",
+    "width": 720,
+    "height": 1080,
+    "exif": {
+      "36880": "+09:00",
+      "ExposureTime": 0.00025,
+      "FNumber": 1.4,
+      "ExposureProgram": 3,
+      "ISO": 640,
+      "SensitivityType": 1,
+      "ExifVersion": {
+        "type": "Buffer",
+        "data": [
+          48,
+          50,
+          51,
+          49
+        ]
+      },
+      "DateTimeOriginal": "2019-09-01T23:21:48.000Z",
+      "DateTimeDigitized": "2019-09-01T23:21:48.000Z",
+      "ShutterSpeedValue": 11.965784,
+      "ApertureValue": 0.970854,
+      "BrightnessValue": 6.73,
+      "ExposureBiasValue": 0,
+      "MaxApertureValue": 1,
+      "MeteringMode": 3,
+      "LightSource": 0,
+      "Flash": 0,
+      "FocalLength": 35,
+      "ColorSpace": 1,
+      "FocalPlaneXResolution": 2655.3432006835938,
+      "FocalPlaneYResolution": 2655.3432006835938,
+      "FocalPlaneResolutionUnit": 3,
+      "SensingMethod": 2,
+      "FileSource": {
+        "type": "Buffer",
+        "data": [
+          3
+        ]
+      },
+      "SceneType": {
+        "type": "Buffer",
+        "data": [
+          1
+        ]
+      },
+      "CustomRendered": 0,
+      "ExposureMode": 0,
+      "WhiteBalance": 0,
+      "FocalLengthIn35mmFormat": 53,
+      "SceneCaptureType": 0,
+      "Sharpness": 0,
+      "SubjectDistanceRange": 0,
+      "BodySerialNumber": "9AA07505",
+      "LensSpecification": [
+        35,
+        35,
+        1.4,
+        1.4
+      ],
+      "LensMake": "FUJIFILM",
+      "LensModel": "XF35mmF1.4 R",
+      "LensSerialNumber": "23A05803"
+    }
+  },
+  {
+    "url": "DSCF0261.jpg",
+    "width": 1620,
+    "height": 1080,
+    "exif": {
+      "36880": "+09:00",
+      "ExposureTime": 0.000625,
+      "FNumber": 6.4,
+      "ExposureProgram": 2,
+      "ISO": 640,
+      "SensitivityType": 1,
+      "ExifVersion": {
+        "type": "Buffer",
+        "data": [
+          48,
+          50,
+          51,
+          49
+        ]
+      },
+      "DateTimeOriginal": "2019-09-01T23:22:25.000Z",
+      "DateTimeDigitized": "2019-09-01T23:22:25.000Z",
+      "ShutterSpeedValue": 10.643856,
+      "ApertureValue": 5.356144,
+      "BrightnessValue": 7.29,
+      "ExposureBiasValue": -1,
+      "MaxApertureValue": 1,
+      "MeteringMode": 3,
+      "LightSource": 0,
+      "Flash": 0,
+      "FocalLength": 35,
+      "ColorSpace": 1,
+      "FocalPlaneXResolution": 2655.3432006835938,
+      "FocalPlaneYResolution": 2655.3432006835938,
+      "FocalPlaneResolutionUnit": 3,
+      "SensingMethod": 2,
+      "FileSource": {
+        "type": "Buffer",
+        "data": [
+          3
+        ]
+      },
+      "SceneType": {
+        "type": "Buffer",
+        "data": [
+          1
+        ]
+      },
+      "CustomRendered": 0,
+      "ExposureMode": 0,
+      "WhiteBalance": 0,
+      "FocalLengthIn35mmFormat": 53,
+      "SceneCaptureType": 0,
+      "Sharpness": 0,
+      "SubjectDistanceRange": 0,
+      "BodySerialNumber": "9AA07505",
+      "LensSpecification": [
+        35,
+        35,
+        1.4,
+        1.4
+      ],
+      "LensMake": "FUJIFILM",
+      "LensModel": "XF35mmF1.4 R",
+      "LensSerialNumber": "23A05803"
+    }
+  },
+  {
+    "url": "DSCF0263.jpg",
+    "width": 720,
+    "height": 1080,
+    "exif": {
+      "36880": "+09:00",
+      "ExposureTime": 0.0006666666666666666,
+      "FNumber": 7.1,
+      "ExposureProgram": 2,
+      "ISO": 640,
+      "SensitivityType": 1,
+      "ExifVersion": {
+        "type": "Buffer",
+        "data": [
+          48,
+          50,
+          51,
+          49
+        ]
+      },
+      "DateTimeOriginal": "2019-09-01T23:29:32.000Z",
+      "DateTimeDigitized": "2019-09-01T23:29:32.000Z",
+      "ShutterSpeedValue": 10.550747,
+      "ApertureValue": 5.655638,
+      "BrightnessValue": 7.59,
+      "ExposureBiasValue": -1,
+      "MaxApertureValue": 1,
+      "MeteringMode": 3,
+      "LightSource": 0,
+      "Flash": 0,
+      "FocalLength": 35,
+      "ColorSpace": 1,
+      "FocalPlaneXResolution": 2655.3432006835938,
+      "FocalPlaneYResolution": 2655.3432006835938,
+      "FocalPlaneResolutionUnit": 3,
+      "SensingMethod": 2,
+      "FileSource": {
+        "type": "Buffer",
+        "data": [
+          3
+        ]
+      },
+      "SceneType": {
+        "type": "Buffer",
+        "data": [
+          1
+        ]
+      },
+      "CustomRendered": 0,
+      "ExposureMode": 0,
+      "WhiteBalance": 0,
+      "FocalLengthIn35mmFormat": 53,
+      "SceneCaptureType": 0,
+      "Sharpness": 0,
+      "SubjectDistanceRange": 0,
+      "BodySerialNumber": "9AA07505",
+      "LensSpecification": [
+        35,
+        35,
+        1.4,
+        1.4
+      ],
+      "LensMake": "FUJIFILM",
+      "LensModel": "XF35mmF1.4 R",
+      "LensSerialNumber": "23A05803"
+    }
+  }
+]

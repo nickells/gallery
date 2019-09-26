@@ -1,6 +1,9 @@
+const webpack = require('webpack');
+
 module.exports = {
-  entry: './index.js',
+  entry: './scripts/index.js',
   devtool: 'source-map',
+  mode: 'development',
   module: {
     rules: [
       {
@@ -15,6 +18,11 @@ module.exports = {
   resolve: {
     extensions: ['*', '.js', '.jsx']
   },
+  plugins: [
+    new webpack.DefinePlugin({
+      'process.env.NODE_ENV': JSON.stringify('development'),
+    })
+  ],
   output: {
     path: __dirname,
     // publicPath: '/',

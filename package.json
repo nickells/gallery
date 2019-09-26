@@ -6,7 +6,7 @@
   "scripts": {
     "start": "http-server",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "watch": "webpack --watch"
+    "watch": "webpack --watch --verbose"
   },
   "keywords": [],
   "author": "",
@@ -15,10 +15,13 @@
     "babel-preset-react": "^6.24.1",
     "core-js": "^3.2.1",
     "exif-js": "^2.3.0",
+    "exif-reader": "^1.0.2",
     "lodash": "^4.17.15",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
-    "regenerator-runtime": "^0.13.3"
+    "react-waypoint": "^9.0.2",
+    "regenerator-runtime": "^0.13.3",
+    "sharp": "^0.23.0"
   },
   "devDependencies": {
     "@babel/core": "^7.5.5",
@@ -26,6 +29,7 @@
     "@babel/preset-react": "^7.0.0",
     "babel": "^6.23.0",
     "babel-loader": "^8.0.6",
+    "http-server": "^0.11.1",
     "webpack": "^4.39.3",
     "webpack-cli": "^3.3.8"
   }
