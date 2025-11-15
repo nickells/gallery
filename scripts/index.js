@@ -26,7 +26,7 @@ function setPath(url){
 const Photo = ({img, initial}) => {
   const $img = useRef(undefined)
   const data = img.exif
-  const url = '/images/' + img.url
+  const url = 'images/' + img.url
   const nanoUrl = url.replace('.jpg', '_nano.jpg')
   const [imageUrl, setimageUrl] = useState(nanoUrl)
   const [entered, setEntered] = useState(false)
@@ -102,7 +102,7 @@ const Photo = ({img, initial}) => {
 
 
 const go = async () => {
-  const data = await fetch('/images/data.json')
+  const data = await fetch('images/data.json')
   const images = await data.json()
   ReactDOM.render(
     <div className="gallery">

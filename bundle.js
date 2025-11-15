@@ -45711,7 +45711,7 @@ var Photo = function Photo(_ref) {
       initial = _ref.initial;
   var $img = Object(react__WEBPACK_IMPORTED_MODULE_2__["useRef"])(undefined);
   var data = img.exif;
-  var url = '/images/' + img.url;
+  var url = 'images/' + img.url;
   var nanoUrl = url.replace('.jpg', '_nano.jpg');
 
   var _useState = Object(react__WEBPACK_IMPORTED_MODULE_2__["useState"])(nanoUrl),
@@ -45817,7 +45817,7 @@ function () {
         switch (_context3.prev = _context3.next) {
           case 0:
             _context3.next = 2;
-            return fetch('/images/data.json');
+            return fetch('images/data.json');
 
           case 2:
             data = _context3.sent;

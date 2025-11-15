@@ -5,7 +5,7 @@ const sharp = require('sharp')
 const pick = require('lodash/pick')
 
 const go = async () => {
-  const basePath = path.join(__dirname, './images')
+  const basePath = path.join(__dirname, '.images')
   const dataPath = path.join(basePath, 'data.json')
   let images = await fs.readdir(basePath)
   images = images.filter(path => {
